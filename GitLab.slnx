@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../MyLibrary/MyLibrary/MyLibrary.csproj" Id="329ea21a-9e98-4710-b082-1e452a14e001" />
   <Project Path="GitLab/GitLab.csproj" Id="b7897627-df90-4d7f-97b6-697e1424a0b8" />
 </Solution>
