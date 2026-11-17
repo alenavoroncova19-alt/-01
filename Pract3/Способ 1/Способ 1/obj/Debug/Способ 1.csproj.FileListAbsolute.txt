@@ -1,0 +1,10 @@
+C:\Users\Huawei\source\repos\Pract3\Способ 1\Способ 1\obj\Debug\Способ 1.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\Pract3\Способ 1\Способ 1\obj\Debug\Способ 1.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\Pract3\Способ 1\Способ 1\bin\Debug\Способ 1.exe.config
+C:\Users\Huawei\source\repos\Pract3\Способ 1\Способ 1\bin\Debug\Способ 1.exe
+C:\Users\Huawei\source\repos\Pract3\Способ 1\Способ 1\bin\Debug\Способ 1.pdb
+C:\Users\Huawei\source\repos\Pract3\Способ 1\Способ 1\bin\Debug\MyLibrary.dll
+C:\Users\Huawei\source\repos\Pract3\Способ 1\Способ 1\bin\Debug\MyLibrary.pdb
+C:\Users\Huawei\source\repos\Pract3\Способ 1\Способ 1\obj\Debug\Способ 1.csproj.Up2Date
+C:\Users\Huawei\source\repos\Pract3\Способ 1\Способ 1\obj\Debug\Способ 1.exe
+C:\Users\Huawei\source\repos\Pract3\Способ 1\Способ 1\obj\Debug\Способ 1.pdb
